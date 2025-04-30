@@ -1,11 +1,11 @@
 # Heart Disease Analysis & Clustering
 
-Welcome to the repository dedicated to K-Means clustering and analysis performed on the Heart Disease Dataset. This analysis employs standardization, K-Means clustering, and visualization techniques in SAS to identify optimal patient clusters.
+This folder is dedicated to K-Means clustering and analysis performed on the Heart Disease Dataset. This analysis employs standardization, K-Means clustering, and visualization techniques in SAS to identify optimal patient clusters.
 
 ---
 ## Project Overview
 
-This project explores clustering within the Heart Disease Dataset by standardizing numerical attributes and applying the K-Means clustering algorithm. Various cluster counts (k = 2 to 6) were evaluated to identify the optimal number of clusters using RMS standard deviation and R-squared metrics. The goal was to discover inherent groupings among patients based on health attributes, ultimately aiding in better understanding patient classification and risk stratification.
+This mini-project explores clustering within the Heart Disease Dataset by standardizing numerical attributes and applying the K-Means clustering algorithm. Various cluster counts (k = 2 to 6) were evaluated to identify the optimal number of clusters using RMS standard deviation and R-squared metrics. The goal was to discover inherent groupings among patients based on health attributes, ultimately aiding in better understanding patient classification and risk stratification.
 
 ---
 ### Tasks
