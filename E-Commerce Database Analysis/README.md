@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis
 
-This repository contains a mini SQL project that demonstrates basic SQL operations using a sample e-commerce dataset. This mini assignment was completed as part of the Data Analytics, Big Data, and Predictive Analytics Certificate.
+This file contains a mini SQL project that demonstrates basic SQL operations using a sample e-commerce dataset.
 
 ---
 
