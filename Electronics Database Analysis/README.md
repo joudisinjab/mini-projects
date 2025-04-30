@@ -1,6 +1,6 @@
 # Electronics Database Analysis
 --- 
-This repository contains a set of SQL queries used to analyze and retrieve data from the electronicsdb database. 
+This folder contains a set of SQL queries used to analyze and retrieve data from the electronicsdb database. 
 
 ---
 ## Assignment Overview
