@@ -1,10 +1,10 @@
-# Mini SQL Project: E-Commerce Data Analysis
+# E-Commerce Data Analysis
 
 This repository contains a mini SQL project that demonstrates basic SQL operations using a sample e-commerce dataset. This mini assignment was completed as part of the Data Analytics, Big Data, and Predictive Analytics Certificate.
 
 ---
 
-## Assignment Overview
+## Project Overview
 
 The objective of this mini project is to practice SQL skills by working with an e-commerce dataset. The dataset contains information on various products, their categories, quantities, and prices. The main tasks of this project is creating a database, defining a table, inserting data, and to run queries to extract useful data.  such as retrieving products by category, calculating the average price, identifying products with specific stock quantities, and calculating total revenue by category.
 
@@ -34,7 +34,7 @@ The objective of this mini project is to practice SQL skills by working with an 
 
 ### Files
 
-- testdatabase-queries.sql: SQL script that contains the creation of the database, table, data insertion, and the queries used for analysis.
+- `testdatabase-queries.sql`: SQL script that contains the creation of the database, table, data insertion, and the queries used for analysis.
 
 ---
 
