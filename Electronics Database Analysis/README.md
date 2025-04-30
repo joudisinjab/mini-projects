@@ -1,6 +1,6 @@
 # Electronics Database Analysis
 --- 
-This repository contains a set of SQL queries used to analyze and retrieve data from the electronicsdb database. This assignment was completed as part of the Data Analytics, Big Data, and Predictive Analytics Certificate.
+This repository contains a set of SQL queries used to analyze and retrieve data from the electronicsdb database. 
 
 ---
 ## Assignment Overview
@@ -27,13 +27,13 @@ The following tasks were completed in this assignment, with code answering each 
 
 ---
 ### Files 
-- electronicsdb.sql: The database used for analysis
-- electronicsdb-queries.sql: SQL file containing the queries used to solve the tasks. 
+- `electronicsdb.sql`: The database used for analysis
+- `electronicsdb-queries.sql`: SQL file containing the queries used to solve the tasks. 
 
 ---
 ### Tools Used
-- MySQL Workbench
-- MySQL Database
 - SQL
+- MySQL Workbench
+
 
 
